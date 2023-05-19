@@ -1,4 +1,4 @@
-# Homework_lesson5. Repetition of lists.
+# Homework_lesson6. Repetition of lists.
 
 Домашняя работа к шестому семинару предмета знакомство с языком программирования Python. Повторение списков.
 
